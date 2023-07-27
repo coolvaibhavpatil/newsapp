@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "The Times of Israel"
+        },
+        "author": null,
+        "title": "1,142 Air Force reservists to end volunteer duty in protest of judicial overhaul - The Times of Israel",
+        "description": "Hundreds of pilots, drone operators, air traffic control officers and others call on government to 'reach broad agreements' or they will suspend their service",
+        "url": "https://www.timesofisrael.com/over-1100-air-force-reservists-to-end-volunteer-duty-in-protest-of-judicial-overhaul/",
+        "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/07/F211024OF16-1024x640.jpg",
+        "publishedAt": "2023-07-21T13:52:30Z",
+        "content": "More than 1,100 Israeli Air Force reservists, including hundreds of pilots, issued a letter on Friday announcing that they will suspend their volunteer reserve duty in protest of the government’s pla… [+6257 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "EV battery plants emerge as wildcard issue in UAW contract talks - CNBC",
+        "description": "The plants are uniquely positioned to have wide-ranging implications for the UAW, automakers and President Joe Biden's push toward domestic manufacturing.",
+        "url": "https://www.cnbc.com/2023/07/21/uaw-contract-talks-ev-battery-plants-make-for-wildcard-issue.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106852719-1615480626390GMEVDay04-JPG?v=1689947101&w=1920&h=1080",
+        "publishedAt": "2023-07-21T13:45:01Z",
+        "content": "General Motors revealed its all-new modular platform and battery system, Ultium, on March 4, 2020 at its Tech Center campus in Warren, Michigan.\r\nDETROIT In already-contentious labor talks between th… [+5915 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Digital Trends"
+        },
+        "author": "Jacob Roach",
+        "title": "I tested Nvidia’s new RTX feature, and it fixed the worst part of PC gaming - Digital Trends",
+        "description": "Nvidia stealthily dropped its new RTX IO feature, and it could have big implications for upcoming PC releases.",
+        "url": "http://www.digitaltrends.com/computing/portal-prelude-rtx-io-tested/",
+        "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/07/portal-prelude-rtx-hallway.jpg?resize=1200%2C630&p=1",
+        "publishedAt": "2023-07-21T13:30:03Z",
+        "content": "You wouldn’t suspect that a mod like Portal: Prelude RTX would debut such a major piece of kit for the future of PC gaming. But lo and behold — it’s the first game we’ve seen with Nvidia’s new RTX IO… [+5530 chars]"
+      }
+    ]
+  }
